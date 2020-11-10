@@ -1,0 +1,16 @@
+UDP Game Protocol
+
+
+
+Packets from Client
+===================
+
+	O	L	Datatype	Desc
+	================================
+
+Packets from Server
+===================
+
+
+	O	L	Datatype	Desc
+	=================================
